@@ -1,3 +1,8 @@
+/**
+ * 家庭收支记账软件
+ * 功能：1.显示收支明细 2.登记收入 3.登记支出 4.结束程序
+ */
+
 public class Project01 {
     public static void main(String[] args) {
         boolean isFlag=true;
